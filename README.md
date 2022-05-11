@@ -1,5 +1,5 @@
 <div>
-  <h1> Arthur Filho 😎👍 </h1> <br>
+  <h1> My Name is Arthur Filho 😎👍 </h1> <br>
   <p> </p>
  <a href="https://github.com/ArthurFilho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
